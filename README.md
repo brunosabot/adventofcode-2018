@@ -79,3 +79,16 @@ It will build all your source files.
 yarn build build          # Will build sources and will quit
 yarn build build:watch    # Will build sources in watch mode
 ```
+
+# Notes of the day discovering
+
+## Day 1
+
+### Puzzle 1
+
+- N/A
+
+### Puzzle 2
+
+- Usage of **Array** object to store the results found : ~14.5s
+- Usage of **Set** object to store the results found : ~0.02s
